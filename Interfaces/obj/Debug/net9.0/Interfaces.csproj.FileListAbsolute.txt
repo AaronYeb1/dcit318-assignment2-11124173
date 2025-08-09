@@ -1,0 +1,15 @@
+/Users/mac/inheritance/Interfaces/bin/Debug/net9.0/Interfaces
+/Users/mac/inheritance/Interfaces/bin/Debug/net9.0/Interfaces.deps.json
+/Users/mac/inheritance/Interfaces/bin/Debug/net9.0/Interfaces.runtimeconfig.json
+/Users/mac/inheritance/Interfaces/bin/Debug/net9.0/Interfaces.dll
+/Users/mac/inheritance/Interfaces/bin/Debug/net9.0/Interfaces.pdb
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfoInputs.cache
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/Interfaces.AssemblyInfo.cs
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/Interfaces.sourcelink.json
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/Interfaces.dll
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/refint/Interfaces.dll
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/Interfaces.pdb
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/Interfaces.genruntimeconfig.cache
+/Users/mac/inheritance/Interfaces/obj/Debug/net9.0/ref/Interfaces.dll
