@@ -51,7 +51,7 @@ namespace OOP_AbstractDemo
             Shape circle = new Circle(5); // Radius = 5
             Shape rectangle = new Rectangle(4, 6); // Width = 4, Height = 6
 
-            // Display areas
+            // Display area
             Console.WriteLine("Circle Area: " + circle.GetArea());
             Console.WriteLine("Rectangle Area: " + rectangle.GetArea());
 
