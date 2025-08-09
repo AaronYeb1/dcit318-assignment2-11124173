@@ -1,0 +1,14 @@
+/Users/mac/inheritance/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/mac/inheritance/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/mac/inheritance/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/mac/inheritance/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/mac/inheritance/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/mac/inheritance/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
