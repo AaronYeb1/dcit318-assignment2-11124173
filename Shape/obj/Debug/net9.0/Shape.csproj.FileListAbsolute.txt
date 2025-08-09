@@ -1,0 +1,15 @@
+/Users/mac/inheritance/Shape/bin/Debug/net9.0/Shape
+/Users/mac/inheritance/Shape/bin/Debug/net9.0/Shape.deps.json
+/Users/mac/inheritance/Shape/bin/Debug/net9.0/Shape.runtimeconfig.json
+/Users/mac/inheritance/Shape/bin/Debug/net9.0/Shape.dll
+/Users/mac/inheritance/Shape/bin/Debug/net9.0/Shape.pdb
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/Shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/Shape.AssemblyInfoInputs.cache
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/Shape.AssemblyInfo.cs
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/Shape.csproj.CoreCompileInputs.cache
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/Shape.sourcelink.json
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/Shape.dll
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/refint/Shape.dll
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/Shape.pdb
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/Shape.genruntimeconfig.cache
+/Users/mac/inheritance/Shape/obj/Debug/net9.0/ref/Shape.dll
